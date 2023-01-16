@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scene/Robo/_OtherScenes/Loading.unity
+    guid: cfafbae6d79cf47e3abc57cc69362a48
+  - enabled: 1
+    path: Assets/_Scene/Robo/_OtherScenes/GameLose.unity
+    guid: 0938d53a552d0466c8a84625320ee7c3
+  - enabled: 1
+    path: Assets/_Scene/Robo/_OtherScenes/MainMenu.unity
+    guid: 014657e1917ffcc41a45ab5d74ea60ae
+  - enabled: 1
+    path: Assets/_Scene/Robo/_OtherScenes/GameWin.unity
+    guid: c859a4dcb6aac2a499c8ea00c6dde17c
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle22.unity
+    guid: 128e5207f8efc384582c09d47f7f9592
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle23.unity
+    guid: fff8e518c4523724a8dadafa900680a6
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle24.unity
+    guid: b51106b97019f4d54b16fb2e98ec022e
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle25.unity
+    guid: f1bd8290ce7b08b46bffdd0b95902def
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle0.unity
+    guid: d565a79b04a4e4931b9df0957a12728e
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/LavaJump.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle1.unity
+    guid: 032f5cbc4c17f4d40a00622961ba9eb4
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle10.unity
+    guid: 51c1b102f13a8a34ca9f9ff5d9a2c509
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle11.unity
+    guid: 5eddd95d9602742d5ac7d184a9adc130
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle12.unity
+    guid: 3c1b35a8660254552b20dc3640e5eb39
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle13.unity
+    guid: d847e91251cde4e90b196fd448e70d7b
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle14.unity
+    guid: e9df982bc9dc43f4580bdc66f7602417
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Tutorials/AlienBossHide.unity
+    guid: d3a5f5b4dcd2fac41b3d518e334f1fb2
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle15.unity
+    guid: 303abda849f1bfb49999b1629b58684d
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle16.unity
+    guid: bc4b3afcb80dc458e86f208d718f273b
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle17.unity
+    guid: c477cb07eb8646042a637743545fc3ad
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle18.unity
+    guid: 7009101d9609018479f53881a79bb942
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle19.unity
+    guid: 06623ffbccc145245bc091559a57580c
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle2.unity
+    guid: 00132b0cb9c9b41849f6563b87d4990f
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle20.unity
+    guid: a504a856c33bce3489f313708f432522
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle21.unity
+    guid: 6e64d8feba183484cbc8e58e624330f1
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle3.unity
+    guid: 9a0c9a78cd02a4691951134f1b094be2
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle4.unity
+    guid: 3f7547bd2cbfd436db44530bc5a1950f
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle5.unity
+    guid: f406d8b357ff74e2ea61fd949106c5a1
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle6.unity
+    guid: 96187674327644de3821fbb87629330c
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle7.unity
+    guid: 763ddb1b7b3e74048aaf279e144bcb9d
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle8.unity
+    guid: 6d955cbaca279465e85aaa60f3e15912
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Puzzle9.unity
+    guid: afac0c7d8aa364985ba6355bbb96bf66
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Tutorials/AlienBoss.unity
+    guid: 9c04692dc3bcc5140a2e9e8efe7384bb
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Bats.unity
+    guid: 9c1853aebbf2b4366a654de7153b36e4
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Crusher.unity
+    guid: 6759114f1c581408393eb93da4241665
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Gun.unity
+    guid: 9e786fe5e49ff11458cf400f296f659c
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Jump.unity
+    guid: 477c9d14482328140b47a294de165ad8
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Tutorials/Keys.unity
+    guid: 9a230f511536e4f4a845cb515766082e
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Lift.unity
+    guid: 1858dff10b3da1043bc51cedd46e2d6b
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Mace.unity
+    guid: 1f1b263d0d99142ae97da099ed21df3f
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Saw.unity
+    guid: 46a9bf4358cd1456cb49d596fb0c742d
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Shoot.unity
+    guid: 147c28920e2b1a4478191653e271e5cf
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Walk.unity
+    guid: f10e070e682388445ace45fb66d6422f
+  - enabled: 1
+    path: Assets/_Scene/Robo/Levels/Tutorials/Tutorials/Walker.unity
+    guid: c93511e3c34756340b8884622144cf04
+  - enabled: 1
+    path: Assets/_Scene/Robo/_OtherScenes/InBetweenLevels.unity
+    guid: 70a6156c439bd46fa8f6f6824ff235ab
+  m_configObjects: {}

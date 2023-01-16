@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - MovingPlatform
+  - Platform
+  - Ground
+  - Death
+  - Coin
+  - Alien
+  - HealthBar
+  - Mine
+  - Bat
+  - Managers
+  - Saw
+  - Spike
+  - Mace
+  - Projectile
+  - AlienBoss
+  - AndroidBoss
+  - EnemyProjectile
+  - Wall
+  - Acid
+  - ConveyorBelt
+  - HiddingSpot
+  - Walker
+  - GroundGun
+  - FireAnim
+  - Boundry
+  - GameWinSummary
+  - MenuManager
+  - RB
+  - Mele1
+  - Mele2
+  - MiniCamera
+  - MiniMapCanvas
+  - Shield
+  - MeleeArmyJoe
+  - ShieldContainer
+  - Hazard
+  - Propellor
+  - GameManager
+  - Bound
+  - BoundryY
+  - BoundryX
+  - wp
+  - Death_zone
+  - Fire
+  - GroundCheck
+  - Orb
+  - CenterOrb
+  - OrbPE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Platform
+  - Player
+  - Ground
+  - Fourground
+  - Pickup
+  - Enemy
+  - Wall
+  - PlayerProjectile
+  - EnemyProjectile
+  - WallJump
+  - Hostile
+  - HiddingSpot
+  - StunnedEnemy
+  - OneWayPlatform
+  - OneWayPlatformRight
+  - OneWayPlatformDown
+  - Hazard
+  - OneWayPlatformLeft
+  - Boundry
+  - DoubleHazard
+  - FogVolumeShadowCaster
+  - FogVolume
+  - FogVolumeSurrogate
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background001
+    uniqueID: 108007165
+    locked: 0
+  - name: BackGround002
+    uniqueID: 3024778873
+    locked: 0
+  - name: Background002
+    uniqueID: 805935419
+    locked: 0
+  - name: Game001
+    uniqueID: 1558854775
+    locked: 0
+  - name: Game002
+    uniqueID: 1373795789
+    locked: 0
+  - name: Game003
+    uniqueID: 834008719
+    locked: 0
+  - name: Foreground
+    uniqueID: 3905183757
+    locked: 0
