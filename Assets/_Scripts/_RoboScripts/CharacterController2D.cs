@@ -218,8 +218,6 @@ public class CharacterController2D : MonoBehaviour,
         
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, radius, whatIsGround);
         
-        
-        
         //isGrounded = groundProbe.IsOnGround ();
         
         /*if (detectors != null && detectors.Length == 2){

@@ -41,6 +41,9 @@ ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
 
+ Logs/*
+
+
 
 # include meta files
 !*.*.meta
